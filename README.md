@@ -7,5 +7,8 @@ What if we leveraged those DevOps processes to gather crucial information about 
 ## Jupiter Collector Service
 https://github.com/xpert98/jupiter-collector-service
 
+## Jupiter Curated Inventory Service
+https://github.com/xpert98/jupiter-curated-inventory-service
+
 ## Jupiter Collector Plugin for Jenkins
 https://github.com/xpert98/jupiter-collector-plugin
