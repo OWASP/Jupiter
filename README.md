@@ -12,3 +12,6 @@ https://github.com/xpert98/jupiter-curated-inventory-service
 
 ## Jupiter Collector Plugin for Jenkins
 https://github.com/xpert98/jupiter-collector-plugin
+
+## Jupiter Inventory Management Console
+https://github.com/xpert98/jupiter-inventory-management-console
